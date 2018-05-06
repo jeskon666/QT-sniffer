@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/myshark.ico</file>
+        <file>images/toolbar-restart.png</file>
+        <file>images/toolbar-start.png</file>
+        <file>images/toolbar-stop.png</file>
+        <file>images/tool-file-close.png</file>
+        <file>images/tool-file-reload.png</file>
+        <file>images/tool-file-save.png</file>
+        <file>images/arp.ico</file>
+        <file>images/open.png</file>
+    </qresource>
+</RCC>
